@@ -36,3 +36,8 @@ For more football analytics tutorials, insights, and open data projects, visit o
 
 ## What's next
 The repo is intentionally minimal. Soon, we will publish an article to show you possible extensions (like the addition of support for multiple files research and/or web search), and how it can be wrapped into a chatbot.
+
+Feel free to take this code and make it the building block of your application. Or to contribute to this repository, if you think it can be improved!
+
+## Support
+For any questions, reach out on [LinkedIn](https://www.linkedin.com/in/matteo-matteotti/).

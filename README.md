@@ -15,7 +15,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-Once you cloned the repo and install the dependencies, you need to set up the environment variables in `.env` file, similar to what shown in the `example.env` file.
+Once you cloned the repo and installed the dependencies, you need to set up the environment variables in `.env` file, similar to what shown in the `example.env` file.
 
 ```
 OPEN_AI_API_KEY="sk-MyUniqueOpenAiKey" # your OpenAI key here
